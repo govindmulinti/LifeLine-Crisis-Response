@@ -70,12 +70,4 @@ python notebook.py
 
 ---
 
-## 📂 Folder Structure
 
-(As shown above)
-
----
-
-## 📘 License
-
-MIT
